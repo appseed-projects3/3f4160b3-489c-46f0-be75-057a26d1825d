@@ -1,0 +1,23 @@
+{
+    "backend": "api-server-nodejs",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "sqlite",
+    "db_user": "",
+    "dbms": "1",
+    "description": "generated product",
+    "design": "soft-ui-dashboard",
+    "docker": "1",
+    "err_code": 0,
+    "frontend": "react",
+    "heroku": "0",
+    "pattern": "fullstack",
+    "pro": "0",
+    "task_id": "3f4160b3-489c-46f0-be75-057a26d1825d",
+    "task_info": "Upload Sources [0%] - 291 files",
+    "task_output": "3f4160b3-489c-46f0-be75-057a26d1825d.zip",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2024-06-14-06-27-30",
+    "task_ts_start": "2024-06-14-06-27-29"
+}
